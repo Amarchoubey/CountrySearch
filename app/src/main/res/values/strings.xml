@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShellCountrySearch</string>
+    <string name="app_label"> Search Feature</string>
+    <string name="search_hint">Search Fruit</string>
+    <string name="search_view">Enter search</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="country_name">Country Name : </string>
+    <string name="capital">Capital : </string>
+    <string name="calling_code">Calling Code : </string>
+    <string name="region">Region : </string>
+    <string name="sub_region">Sub Region : </string>
+    <string name="time_zone">Time Zone : </string>
+    <string name="currencies">Currency : </string>
+    <string name="language">Language : </string>
+    <string name="save_offline">Save Offline </string>
+</resources>
